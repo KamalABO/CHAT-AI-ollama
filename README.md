@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+# Ollama Chat
+
+تطبيق دردشة ذكاء اصطناعي مبني بـ Next.js و Tailwind CSS، يتيح لك التفاعل مع نماذج Ollama (مثل llama3 و mistral) عبر واجهة دردشة سهلة الاستخدام تدعم:
+- إرسال الأسئلة كتابيًا أو صوتيًا (تعرف على الكلام).
+- الحصول على الردود من النموذج المختار.
+- نطق الردود صوتيًا (Text-to-Speech).
+- حفظ واستعراض سجل المحادثات.
+
+---
 
 ## Getting Started
 
