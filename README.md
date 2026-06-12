@@ -314,7 +314,7 @@ This project demonstrates real-world software engineering concepts:
 
 # 👨‍💻 Author
 
-### Kamal Abo
+### Kamal Mohammed ABO-Shady 
 
 Backend Developer | Full Stack Developer | AI Enthusiast
 
