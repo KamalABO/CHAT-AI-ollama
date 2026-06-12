@@ -1,0 +1,14 @@
+{
+  "title": "Ollama Chat",
+  "subtitle": "Ask anything in English",
+  "send": "Send",
+  "loading": "Processing...",
+  "promptPlaceholder": "Write your question here...",
+  "history": "📜 View Chat History",
+  "selectModel": "🧩 Select Model:",
+  "mic": "🎤 Voice Input",
+  "speak": "🔊 Speak Answer",
+  "response": "Response:",
+  "light": "☀️ Light Mode",
+  "dark": "🌙 Dark Mode"
+}
